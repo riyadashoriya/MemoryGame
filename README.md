@@ -1,5 +1,5 @@
 # MemoryGame
-A browser-based card matching game (also known as Concentration), done as a part of Udacity's Full Stack Web Developer Nanodegree.
+A browser-based card matching game (also known as Concentration), done as a part of Udacity's Front End Web Developer Nanodegree.
 
 
 ![alt text](https://github.com/riyadashoriya/MemoryGame/blob/master/MemoryGameUi.png "Game Preview")
